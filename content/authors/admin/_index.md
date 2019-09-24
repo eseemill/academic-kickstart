@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Eric S. Seemiller, PhD
 
 # Username (this should match the folder name)
 authors:
