@@ -52,6 +52,7 @@ social:
   icon_pack: ai
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   link: https://scholar.google.com/citations?user=PCG7xS4AAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
@@ -59,11 +60,16 @@ social:
 =======
 =======
 >>>>>>> parent of 09af8c3... Update bio
+=======
+>>>>>>> parent of 09af8c3... Update bio
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 09af8c3... Update bio
+=======
 >>>>>>> parent of 09af8c3... Update bio
 =======
 >>>>>>> parent of 09af8c3... Update bio
@@ -80,9 +86,15 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #user_groups:
 #- Researchers
 #- Visitors
+=======
+user_groups:
+- Researchers
+- Visitors
+>>>>>>> parent of 09af8c3... Update bio
 =======
 user_groups:
 - Researchers
