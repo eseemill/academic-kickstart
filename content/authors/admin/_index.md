@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a vision scientist currently working in the Clinical Optics Research Lab at the Borish Center for Ophthalmic Research at Indiana University. 
+I am a vision scientist currently working in the Clinical Optics Research Lab at the Borish Center for Ophthalmic Research at Indiana University. Cars
