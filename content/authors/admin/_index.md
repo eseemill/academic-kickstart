@@ -53,11 +53,14 @@ social:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   link: https://scholar.google.com/citations?user=PCG7xS4AAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
 # link: https://github.com/gcushen
 =======
+=======
+>>>>>>> parent of 09af8c3... Update bio
 =======
 >>>>>>> parent of 09af8c3... Update bio
 =======
@@ -68,6 +71,9 @@ social:
   link: https://github.com/gcushen
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 09af8c3... Update bio
+=======
 >>>>>>> parent of 09af8c3... Update bio
 =======
 >>>>>>> parent of 09af8c3... Update bio
@@ -87,9 +93,15 @@ email: ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #user_groups:
 #- Researchers
 #- Visitors
+=======
+user_groups:
+- Researchers
+- Visitors
+>>>>>>> parent of 09af8c3... Update bio
 =======
 user_groups:
 - Researchers
