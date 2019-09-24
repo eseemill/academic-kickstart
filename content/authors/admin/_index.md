@@ -51,15 +51,21 @@ social:
 - icon: google-scholar
   icon_pack: ai
 <<<<<<< HEAD
+<<<<<<< HEAD
   link: https://scholar.google.com/citations?user=PCG7xS4AAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
 # link: https://github.com/gcushen
 =======
+=======
+>>>>>>> parent of 09af8c3... Update bio
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+<<<<<<< HEAD
+>>>>>>> parent of 09af8c3... Update bio
+=======
 >>>>>>> parent of 09af8c3... Update bio
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -73,9 +79,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 <<<<<<< HEAD
+<<<<<<< HEAD
 #user_groups:
 #- Researchers
 #- Visitors
+=======
+user_groups:
+- Researchers
+- Visitors
+>>>>>>> parent of 09af8c3... Update bio
 =======
 user_groups:
 - Researchers
