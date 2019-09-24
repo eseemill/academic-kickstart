@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Indiana University School of Optometry
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
