@@ -42,7 +42,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link:https://scholar.google.com/citations?user=PCG7xS4AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=PCG7xS4AAAAJ&hl=en
 #- icon: github
 # icon_pack: fab
 # link: https://github.com/gcushen
