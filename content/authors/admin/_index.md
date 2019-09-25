@@ -65,9 +65,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a vision scientist currently working in the Clinical Optics Research Lab at the Borish Center for Ophthalmic Research at Indiana University. 
